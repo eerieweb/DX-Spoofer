@@ -1,0 +1,27 @@
+Project: DX IP Spoofer Tool
+
+Developed by: DX
+
+Thank you for using this IP Spoofing tool. This project is intended for educational purposes and security testing only. Any misuse of this tool is strictly prohibited and is at your own risk.
+I am in no way responsible for the actions you may do with this tool.
+
+### Social Media and Contact
+
+- GitHub: https://github.com/eeriweb
+- Discord: ifwzee
+- Instagram: https://www.instagram.com/yhyl250/
+- Email: svetlana@eerie.pro
+
+### Acknowledgements
+
+I would like to thank everyone who supported me in the development of this project, as well as the contributors of the libraries used.
+
+### License
+
+This project is licensed under the MIT License. For more details, please refer to the LICENSE file.
+
+### Important Note
+
+This tool is provided for testing purposes in a controlled environment only. Please do not use this tool for illegal or malicious purposes.
+
+© 2024 DX. All rights reserved.
