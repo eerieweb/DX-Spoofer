@@ -121,7 +121,9 @@ This project is licensed under the MIT License. See the LICENSE file for details
 For any questions or support, feel free to reach out:
 
 **GitHub:** eerieweb
+
 **Discord:** ifwzee
+
 **Email:** svetlana@eerie.pro
 
 **Disclaimer:** This tool is provided for educational and research purposes only. Use it responsibly and within the bounds of the law.
